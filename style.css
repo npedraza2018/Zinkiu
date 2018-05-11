@@ -50,6 +50,14 @@ src: url(../fonts/RobotoCondensed-Regular.ttf);
 }
 
 
+a{
+
+font-size: 20px;
+font-family: Roboto Black;
+}
+
+
+
 /*css movil*/
 
            body {
